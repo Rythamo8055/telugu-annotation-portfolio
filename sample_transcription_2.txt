@@ -1,0 +1,148 @@
+TRANSCRIPTION SAMPLE 2: Telugu Newspaper Page
+================================================
+Source: Eenadu Daily Newspaper
+Document Type: Newspaper
+Language: Telugu
+Page: 3 (District Edition)
+
+---
+
+REGION 1: Newspaper Header
+Component Type: title
+Reading Order: 1
+Parent Component: none
+Quality Flag: None
+
+Telugu Text:
+ఈనాడు - హైదరాబాద్ జిల్లా ఎడిషన్
+
+Transliteration:
+Īnāḍu - Haidarābād jillā eḍiṣan
+
+---
+
+REGION 2: Date Line
+Component Type: paragraph
+Reading Order: 2
+Parent Component: region_001
+Quality Flag: None
+
+Telugu Text:
+ఆదివారం, సెప్టెంబర్ 7, 2026
+
+Transliteration:
+Ādivāraṁ, Sepṭembar 7, 2026
+
+---
+
+REGION 3: Main Headline
+Component Type: heading
+Reading Order: 3
+Parent Component: none
+Quality Flag: None
+
+Telugu Text:
+రాష్ట్రంలో భారీ వర్షాలు - అధికారులపై సీఎం ఆగ్రహం
+
+Transliteration:
+Rāṣṭraṁlō bhārī varṣālu - adhikārulapai sīṁ āgrahaṁ
+
+---
+
+REGION 4: News Article Paragraph 1
+Component Type: paragraph
+Reading Order: 4
+Parent Component: region_003
+Quality Flag: None
+
+Telugu Text:
+రాష్ట్రంలో గత 48 గంటలుగా కురుస్తున్న భారీ వర్షాలకు అనేక ప్రాంతాలు మునిగాయి. హైదరాబాద్, విజయవాడ, గుంటూరు జిల్లాల్లో తీవ్ర నష్టం జరిగింది. సీఎం రాష్ట్ర అధికారులపై తీవ్ర ఆగ్రహం వ్యక్తం చేశారు.
+
+Transliteration:
+Rāṣṭraṁlō gati 48 ghaṇṭalugā kurustunna bhārī varṣālaku anēka prāntālu munigāyi. Haidarābād, Vijayavāḍā, Guṇṭūru jillāllō tīvra naṣṭaṁ jarigindi. Sīṁ rāṣṭra adhikārulapai tīvra āgrahaṁ vyaktaṁ cēśāru.
+
+---
+
+REGION 5: News Article Paragraph 2
+Component Type: paragraph
+Reading Order: 5
+Parent Component: region_003
+Quality Flag: None
+
+Telugu Text:
+ముఖ్యమంత్రి ఈ రోజు ఉదయం అత్యవసర సమావేశం నిర్వహించారు. సమావేశంలో రాష్ట్ర మంత్రులు, సీనియర్ అధికారులు పాల్గొన్నారు. వర్షాల నేపథ్యంలో సహాయ చర్యలను వేగవంతం చేయాలని సీఎం ఆదేశించారు.
+
+Transliteration:
+Mukhyamantri ī rōju udayaṁ atyavasara samāvēśaṁ nirvahin̄cāru. Samāvēśaṁlō rāṣṭra mantrulu, sīniyar adhikārulu pālgonnāru. Varṣāla nēpathyōṁlō sahāya caryalanu vēgavaṁtaṁ cēyālanī sīṁ ādēśin̄cāru.
+
+---
+
+REGION 6: Photo Caption
+Component Type: caption
+Reading Order: 6
+Parent Component: none
+Quality Flag: None
+
+Telugu Text:
+చిత్రం: వర్షానికి మునిగిన హైదరాబాద్ రోడ్లు
+
+Transliteration:
+Citraṁ: Varṣāniki munigina Haidarābād rōḍlu
+
+---
+
+REGION 7: Table - Rainfall Data
+Component Type: table
+Reading Order: 7
+Parent Component: none
+Quality Flag: None
+
+Telugu Text:
+వర్షపాతం డేటా (మిల్లీమీటర్లలో)
+| జిల్లా | గత 24 గంటలు | గత 48 గంటలు |
+|--------|--------------|--------------|
+| హైదరాబాద్ | 125 | 210 |
+| విజయవాడ | 98 | 175 |
+| గుంటూరు | 110 | 195 |
+| కర్నూలు | 85 | 150 |
+
+Transliteration:
+Varṣapātaṁ ḍēṭā (millīmīṭarlalō)
+| Jillā | Gati 24 ghaṇṭalu | Gati 48 ghaṇṭalu |
+|-------|------------------|------------------|
+| Haidarābād | 125 | 210 |
+| Vijayavāḍā | 98 | 175 |
+| Guṇṭūru | 110 | 195 |
+| Karnūlu | 85 | 150 |
+
+---
+
+REGION 8: Sub-headline
+Component Type: heading
+Reading Order: 8
+Parent Component: none
+Quality Flag: None
+
+Telugu Text:
+నేడు కూడా భారీ వర్షాల హెచ్చరిక
+
+Transliteration:
+Nēḍu kūḍā bhārī varṣāla heccharika
+
+---
+
+REGION 9: Weather Warning Box
+Component Type: paragraph
+Reading Order: 9
+Parent Component: region_008
+Quality Flag: None
+
+Telugu Text:
+భారత వాతావరణ శాఖ హైదరాబాద్ కేంద్రం నేడు కూడా భారీ వర్షాల హెచ్చరిక జారీ చేసింది. రాగల 24 గంటల్లో 150 మిల్లీమీటర్లకు పైగా వర్షపాతం నమోదయ్యే అవకాశం ఉందని తెలిపింది. ప్రజలు అవసరం లేకుండా బయటకు వెళ్ళవద్దని సూచించింది.
+
+Transliteration:
+Bhārata vātāvaraṇa śākha Haidarābād kēndraṁ nēḍu kūḍā bhārī varṣāla heccharika jārī cēsindi. Rāgala 24 ghaṇṭallō 150 millīmīṭarlaku paigā varṣapātaṁ namōdayyē avakāśaṁ undanī telipindi. Prajalu avasaraṁ lēkuṇḍa bayataku veḷḷavaddanī sūcincindi.
+
+---
+
+END OF TRANSCRIPTION

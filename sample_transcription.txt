@@ -1,0 +1,137 @@
+TRANSCRIPTION SAMPLE 1: Telugu Textbook Page
+================================================
+Source: AP SCERT 10th Class Mathematics Textbook
+Document Type: Educational Textbook
+Language: Telugu
+Page: 1
+
+---
+
+REGION 1: Document Title
+Component Type: title
+Reading Order: 1
+Parent Component: none
+
+Telugu Text:
+గణితశాస్త్రం - పదవ తరగతి
+
+Transliteration (for reference only):
+Ganitasāstram - Padava Taragati
+
+---
+
+REGION 2: Chapter Heading
+Component Type: heading
+Reading Order: 2
+Parent Component: none
+
+Telugu Text:
+అధ్యాయం 1: బీజగణితం
+
+Transliteration:
+Adhyāyam 1: Bījagaṇitaṁ
+
+---
+
+REGION 3: Section Heading
+Component Type: heading
+Reading Order: 3
+Parent Component: region_002
+
+Telugu Text:
+1.1 వర్గసమీకరణాలు
+
+Transliteration:
+1.1 Vargasamīkaraṇālu
+
+---
+
+REGION 4: Paragraph
+Component Type: paragraph
+Reading Order: 4
+Parent Component: region_003
+
+Telugu Text:
+వర్గసమీకరణం అనేది ఒక గణిత సమీకరణం, ఇది ax² + bx + c = 0 ఆకారంలో ఉంటుంది. ఇక్కడ a, b, c వాస్తవ సంఖ్యలు మరియు a ≠ 0. వర్గసమీకరణాన్ని పరిష్కరించడానికి అనేక పద్ధతులు ఉన్నాయి.
+
+Transliteration:
+Vargasamīkaraṇam anēdi oka gaṇita samīkaraṇam, idi ax² + bx + c = 0 ākāraḷō vuntundi. Ikkada a, b, c vāstava saṅkhyalu mariyānu a ≠ 0. Vargasamīkaraṇānni pariskarincēdaniki anēka paddhatulu unnāyi.
+
+---
+
+REGION 5: Table
+Component Type: table
+Reading Order: 5
+Parent Component: none
+
+Telugu Text:
+వర్గసమీకరణ పద్ధతులు
+| పద్ధతి | వివరణ |
+|---------|--------|
+| గుణకార పద్ధతి | ax² + bx + c = 0 ను (x + p)(x + q) ఆకారంలో మార్చడం |
+| పూర్తి వర్గం పద్ధతి | ax² + bx + c = 0 ను a(x + h)² + k ఆకారంలో మార్చడం |
+| సూత్రం పద్ధతి | x = (-b ± √(b² - 4ac)) / 2a |
+
+Transliteration:
+Vargasamīkaraṇa paddhatulu
+| Paddhati | Vivaraṇa |
+|----------|-----------|
+| Guṇakāra paddhati | ax² + bx + c = 0 nu (x + p)(x + q) ākāraḷō mārcēḍaṁ |
+| Pūrti vurgaṁ paddhati | ax² + bx + c = 0 nu a(x + h)² + k ākāraḷō mārcēḍaṁ |
+| Sūtraṁ paddhati | x = (-b ± √(b² - 4ac)) / 2a |
+
+---
+
+REGION 6: Figure Description
+Component Type: figure
+Reading Order: 6
+Parent Component: none
+
+Telugu Text:
+చిత్రం 1.1: వర్గఫలనం యొక్క గ్రాఫ్
+
+Transliteration:
+Citraṁ 1.1: Vargaphalanaṁ yokka grāph
+
+---
+
+REGION 7: Caption
+Component Type: caption
+Reading Order: 7
+Parent Component: region_006
+
+Telugu Text:
+ఉదాహరణ: y = x² యొక్క గ్రాఫ్ (0, 0) వద్ద శీర్షం కలిగి ఉంటుంది
+
+Transliteration:
+Udāharaṇa: y = x² yokka grāph (0, 0) vadda śīrṣaṁ kaligi vuntundi
+
+---
+
+REGION 8: Example Box
+Component Type: paragraph
+Reading Order: 8
+Parent Component: region_003
+
+Telugu Text:
+ఉదాహరణ 1.1: x² - 5x + 6 = 0 సమీకరణాన్ని పరిష్కరించండి.
+
+సాధన:
+x² - 5x + 6 = 0
+x² - 2x - 3x + 6 = 0
+x(x - 2) - 3(x - 2) = 0
+(x - 2)(x - 3) = 0
+x = 2 లేదా x = 3
+
+Transliteration:
+Udāharaṇa 1.1: x² - 5x + 6 = 0 samīkaraṇānni pariskariñcaṇḍi.
+
+Sādhana:
+x² - 5x + 6 = 0
+x² - 2x - 3x + 6 = 0
+x(x - 2) - 3(x - 2) = 0
+(x - 2)(x - 3) = 0
+x = 2 lēdā x = 3
+
+---
+END OF TRANSCRIPTION
