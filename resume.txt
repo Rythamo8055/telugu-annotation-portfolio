@@ -1,88 +1,157 @@
 M Vishnu Vardhan
-PDF Annotation & Transcription Expert - Telugu
-9985508027 | vishnuvardhanthe8055@gmail.com | Hyderabad, Telangana 500100
-LinkedIn: linkedin.com/in/vishnu-vardhan8055 | GitHub: github.com/Rythamo8055
+PDF Annotation and Transcription Expert - Telugu
+Phone: 9985508027
+Email: vishnuvardhanthe8055@gmail.com
+Location: Hyderabad, Telangana 500100
+LinkedIn: linkedin.com/in/vishnu-vardhan8055
+GitHub: github.com/Rythamo8055
+Portfolio: rythamo8055.github.io/telugu-annotation-portfolio
 
 PROFESSIONAL SUMMARY
-Native Telugu speaker with comprehensive expertise in document annotation, transcription, and script-level accuracy. Experienced in handling complex Telugu documents including multi-column newspapers, handwritten forms, examination papers, and mixed-layout materials. Proven track record in AI data labeling, bilingual QA, and Unicode-accurate transcription. Detail-oriented professional who applies consistent taxonomies across hundreds of pages with character-level precision.
+Native Telugu speaker with comprehensive expertise in document annotation transcription and script-level accuracy. Experienced in handling complex Telugu documents including multi-column newspapers handwritten forms examination papers and mixed-layout materials. Proven track record in AI data labeling bilingual QA and Unicode-accurate transcription. Detail-oriented professional who applies consistent taxonomies across hundreds of pages with character-level precision. Strong technical background in software development with hands-on experience in data processing automation and quality assurance workflows.
 
 CORE COMPETENCIES
-Telugu Script and Language: Native fluency in Telugu with full command of script, diacritics, conjunct forms, and orthography
-Document Annotation: Structural annotation of PDFs - identifying titles, sections, paragraphs, tables, figures, captions, formulas, and reading order
-Transcription: Character-accurate transcription of printed and handwritten Telugu content from diverse document sources
-AI Data Labeling: Component identification, bounding box annotation, reading-order indexing, and hierarchical relationship mapping
-Document Layout Analysis: Multi-column layouts, newspaper formats, examination papers, forms, menus, brochures, and worksheets
-Technical Telugu Skills: Unicode normalization, Telugu input methods, numeral-form accuracy, character-form validation
-Translation and QA: Bilingual English-Telugu translation, subtitling, post-editing, and quality assurance
-Document Production: Typesetting, copy-editing, proofreading, and digitization of Telugu-language material
-Quality Review: End-to-end document review, error detection, and second-expert verification workflows
+- Telugu Script and Language: Native fluency in Telugu with full command of script diacritics conjunct forms and orthography
+- Document Annotation: Structural annotation of PDFs identifying titles sections paragraphs tables figures captions formulas and reading order
+- Transcription: Character-accurate transcription of printed and handwritten Telugu content from diverse document sources
+- AI Data Labeling: Component identification bounding box annotation reading-order indexing and hierarchical relationship mapping
+- Document Layout Analysis: Multi-column layouts newspaper formats examination papers forms menus brochures and worksheets
+- Technical Telugu Skills: Unicode normalization Telugu input methods numeral-form accuracy character-form validation
+- Translation and QA: Bilingual English-Telugu translation subtitling post-editing and quality assurance
+- Document Production: Typesetting copy-editing proofreading and digitization of Telugu-language material
+- Quality Review: End-to-end document review error detection and second-expert verification workflows
+- Software Development: Python JavaScript TypeScript Next.js FastAPI REST APIs
+- Data Processing: PDF parsing OCR integration text extraction data validation
+- Automation: Scripting automation for repetitive annotation and transcription tasks
 
 TOOLS AND TECHNOLOGIES
-Annotation Platforms: Label Studio, CVAT, Doccano, Prodigy
-Document Processing: PDF parsing tools, OCR engines, layout detection models
-Productivity: Google Workspace, Microsoft Office, Notion, Git
-Languages: Python, JavaScript (for automation scripts and data processing)
+Annotation Platforms: Label Studio CVAT Doccano Prodigy
+Document Processing: PDF parsing tools OCR engines layout detection models
+Programming: Python JavaScript TypeScript Dart C C++
+Web Frameworks: Next.js React Flutter Node.js FastAPI
+Databases: SQL Turso SQLite Cloudflare Workers
+DevOps: Git GitHub Docker Linux CI CD Vercel Render Cloud Run
+Productivity: Google Workspace Microsoft Office Notion
 
 EXPERIENCE
-Freelance Document Specialist - Telugu Content
-Apr 2024 - Present, Remote
 
-- Transcribed and annotated 50+ Telugu documents across newspapers, textbooks, examination papers, and flyers
+Software Development Intern - HealthMetro Digital Preventive Healthcare Platform
+Mar 2026 - Aug 2026
+Hyderabad
+
+- Built monolithic healthcare management system from scratch with doctor and patient records pharmacy modules form workflows and admin dashboard with real analytics using JavaScript TypeScript and SQL
+- Developed landing page and internal reporting dashboards for early-stage health-tech startup
+- Implemented data validation and quality assurance processes for patient records ensuring character-level accuracy
+- Created automated testing scripts for form validation and data integrity checks
+- Collaborated with team to ensure accurate documentation of medical terminology in English and Telugu
+- Applied systematic approach to code organization and documentation similar to annotation taxonomy workflows
+
+Freelance Document Specialist - Telugu Content
+Nov 2025 - Aug 2026
+Remote
+
+- Transcribed and annotated 50+ Telugu documents across newspapers textbooks examination papers and flyers
 - Performed character-level accurate transcription ensuring zero diacritic errors in Telugu script
-- Identified and bounded all meaningful page regions including titles, headings, paragraphs, lists, tables, figures, and captions
+- Identified and bounded all meaningful page regions including titles headings paragraphs lists tables figures and captions
 - Assigned component types and reading-order indices to each annotated region
-- Linked regions to parent components (figures, tables) through hierarchical identifiers
-- Captured page metadata: language, document type, source, dimensions, and content flags
+- Linked regions to parent components figures tables through hierarchical identifiers
+- Captured page metadata language document type source dimensions and content flags
 - Reviewed peer annotations for accuracy and completeness before final submission
 - Handled handwritten Telugu content and flagged illegible regions for supervisor review
 
-AI Data Annotation Projects
-Jan 2025 - Present, Remote
+Freelance Developer - Rythamo
+Nov 2025 - Aug 2026
+Remote
 
-- Completed multiple data labeling projects for AI/ML training datasets involving Telugu content
+- Delivered websites and applications for 10 clients across multiple countries
+- Published 4+ apps to Google Play including Rythamo Day personal wellness journal and village news community app with 1000+ users
+- Developed data processing pipelines for text extraction and content management
+- Implemented quality assurance workflows for content accuracy and consistency
+- Created automated testing scripts for data validation and integrity checks
+- Applied systematic approach to project organization and documentation
+
+AI Data Annotation Projects
+Nov 2025 - Aug 2026
+Remote
+
+- Completed multiple data labeling projects for AI and ML training datasets involving Telugu content
 - Annotated document layouts for training document-understanding models
 - Applied consistent taxonomy across diverse document types and layouts
 - Ensured character-level accuracy in all transcribed text regions
 - Performed bilingual QA checks on annotated Telugu-English document pairs
+- Created annotation guidelines and quality standards documentation
+- Reviewed and corrected AI-generated annotations for accuracy
 
 Telugu Localization and Subtitling
-2023 - Present, Remote
+Nov 2025 - Aug 2026
+Remote
 
 - Localized software interfaces and web applications into Telugu
 - Created subtitles for Telugu video content with timing accuracy
 - Performed bilingual QA review ensuring translation fidelity and cultural accuracy
-- Corrected OCR output for Telugu documents with 99%+ accuracy
+- Corrected OCR output for Telugu documents with 99% accuracy
 - Maintained consistent terminology across large-volume translation projects
+- Documented style guides and glossaries for Telugu localization
+- Collaborated with development teams to ensure accurate UI text rendering
 
 EDUCATION
-B.Tech in Computer Science and Engineering - Malla Reddy Engineering College, Hyderabad
-2023 - 2027 | CGPA: 8.7 / 10
 
-Intermediate (MPC) - Sri Chaitanya Junior College, Kurnool
+B.Tech in Computer Science and Engineering
+Malla Reddy Engineering College Hyderabad
+2023 - 2027
+CGPA: 8.7 / 10
+
+Intermediate (MPC)
+Sri Chaitanya Junior College Kurnool
 2021 - 2023
 
-SSC (10th) - Vivekananda High School, Ananthapur
+SSC (10th)
+Vivekananda High School Ananthapur
 2021
 
 CERTIFICATIONS
-Programming with Generative AI - NPTEL, ACM India and IISc Bangalore
-Problem Solving Through Programming in C - NPTEL, IIT Kharagpur
-Programming in Java - NPTEL, IIT Kharagpur
+
+Programming with Generative AI - NPTEL ACM India and IISc Bangalore
+Problem Solving Through Programming in C - NPTEL IIT Kharagpur
+Programming in Java - NPTEL IIT Kharagpur
 Fundamentals of Generative AI - Google Skills
 
+OPEN SOURCE CONTRIBUTIONS
+
+sktime Open-Source Machine Learning Library
+Nov 2025 - Aug 2026
+
+- Authored 7 bug-fix Pull Requests including GroupbyCategoryForecaster predict_proba TypeError fix
+- VECM in-sample prediction crash fix
+- sklearn estimator initialization conformance for 4 estimators
+- MantisClassifier CUDA deepcopy and serialization fix
+- MonthStart frequency coercion in forecasting
+- plot_series KeyError on multivariate interval plots
+
+Google Gemini CLI - Open-Source Contributor
+Jan 2025
+
+- Contributed to open-source CLI tool for Google Gemini integration
+
+ZeroClaw Android - Open-Source Contributor
+Mar 2025
+
+- Contributed to open-source Android application development
+
 PORTFOLIO PROJECTS
+
 Telugu Document Annotation Portfolio - September 2026
 - Created complete annotation configuration for Label Studio with 10 component types
-- Annotated sample Telugu textbook page: 8 regions with bounding boxes, component types, reading order
+- Annotated sample Telugu textbook page: 8 regions with bounding boxes component types reading order
 - Annotated sample Telugu newspaper page: 9 regions including multi-column layout handling
 - Developed 10-step annotation workflow documentation
 - Transcribed 2 full Telugu pages with zero diacritic errors
-- Portfolio demonstrates: character-level accuracy, taxonomy consistency, relationship mapping
+- Portfolio demonstrates character-level accuracy taxonomy consistency relationship mapping
 - Portfolio URL: https://rythamo8055.github.io/telugu-annotation-portfolio/
 
 Telugu Transcription Samples - September 2026
-- Textbook page: Transcribed 8 regions including title, headings, paragraphs, tables, figures, captions
-- Newspaper page: Transcribed 9 regions including headlines, articles, data tables, weather warnings
+- Textbook page: Transcribed 8 regions including title headings paragraphs tables figures captions
+- Newspaper page: Transcribed 9 regions including headlines articles data tables weather warnings
 - Maintained 100% script accuracy with preserved diacritics and conjunct forms
 - Applied consistent reading-order indexing across diverse layouts
 
@@ -92,13 +161,45 @@ Annotation Workflow Documentation - September 2026
 - Created quality standards checklist for character-level accuracy
 - Documented relationship mapping methodology for parent-child components
 
+PROJECTS
+
+ARTHIV - AI Interview Platform
+2026
+
+- Built Agentic AI interview platform on Gemini 3 Flash with native audio WebSocket streaming Google ADK orchestration and secure rate limiting
+- Implemented real-time data processing and validation for interview transcription accuracy
+
+remotion-agent - AI Video Creation Agent
+2026
+
+- Production agent with 5 specialized sub-agents that plans codes and renders video autonomously
+- Created automated content generation pipeline with quality validation
+
+GraphRAG Demo
+2026
+
+- Knowledge-graph question answering with entity triples graph indexing and 2-hop retrieval
+- Implemented data validation and accuracy checks for knowledge graph construction
+
+RAG Pipeline
+2025
+
+- End-to-end RAG pipeline with LangChain and ChromaDB and Google GenAI
+- Implemented ingestion embedding and generation with quality validation
+
 LANGUAGES
-Telugu - Native (full script mastery including diacritics and conjunct forms)
-English - Fluent (professional working proficiency)
+
+Telugu - Native full script mastery including diacritics and conjunct forms
+English - Fluent professional working proficiency
+Japanese - Beginner basic conversational ability
 
 ADDITIONAL QUALIFICATIONS
-- Comfortable with unfamiliar document layouts: multi-column newspapers, exam papers, handwritten forms
-- Systematic approach: applies taxonomy consistently across hundreds of pages
+
+- Comfortable with unfamiliar document layouts multi-column newspapers exam papers handwritten forms
+- Systematic approach applies taxonomy consistently across hundreds of pages
 - Character-level accuracy prioritized over speed
-- Experienced with diverse Telugu document types: newspapers, textbooks, examinations, flyers, forms, manuals, menus, brochures, notices, worksheets
+- Experienced with diverse Telugu document types newspapers textbooks examinations flyers forms manuals menus brochures notices worksheets
 - Available for flexible scheduling and remote work
+- Strong problem-solving skills with attention to detail
+- Experience working in fast-paced environments with tight deadlines
+- Excellent communication skills for cross-team collaboration
