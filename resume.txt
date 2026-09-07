@@ -1,0 +1,104 @@
+M Vishnu Vardhan
+PDF Annotation & Transcription Expert - Telugu
+9985508027 | vishnuvardhanthe8055@gmail.com | Hyderabad, Telangana 500100
+LinkedIn: linkedin.com/in/vishnu-vardhan8055 | GitHub: github.com/Rythamo8055
+
+PROFESSIONAL SUMMARY
+Native Telugu speaker with comprehensive expertise in document annotation, transcription, and script-level accuracy. Experienced in handling complex Telugu documents including multi-column newspapers, handwritten forms, examination papers, and mixed-layout materials. Proven track record in AI data labeling, bilingual QA, and Unicode-accurate transcription. Detail-oriented professional who applies consistent taxonomies across hundreds of pages with character-level precision.
+
+CORE COMPETENCIES
+Telugu Script and Language: Native fluency in Telugu with full command of script, diacritics, conjunct forms, and orthography
+Document Annotation: Structural annotation of PDFs - identifying titles, sections, paragraphs, tables, figures, captions, formulas, and reading order
+Transcription: Character-accurate transcription of printed and handwritten Telugu content from diverse document sources
+AI Data Labeling: Component identification, bounding box annotation, reading-order indexing, and hierarchical relationship mapping
+Document Layout Analysis: Multi-column layouts, newspaper formats, examination papers, forms, menus, brochures, and worksheets
+Technical Telugu Skills: Unicode normalization, Telugu input methods, numeral-form accuracy, character-form validation
+Translation and QA: Bilingual English-Telugu translation, subtitling, post-editing, and quality assurance
+Document Production: Typesetting, copy-editing, proofreading, and digitization of Telugu-language material
+Quality Review: End-to-end document review, error detection, and second-expert verification workflows
+
+TOOLS AND TECHNOLOGIES
+Annotation Platforms: Label Studio, CVAT, Doccano, Prodigy
+Document Processing: PDF parsing tools, OCR engines, layout detection models
+Productivity: Google Workspace, Microsoft Office, Notion, Git
+Languages: Python, JavaScript (for automation scripts and data processing)
+
+EXPERIENCE
+Freelance Document Specialist - Telugu Content
+Apr 2024 - Present, Remote
+
+- Transcribed and annotated 50+ Telugu documents across newspapers, textbooks, examination papers, and flyers
+- Performed character-level accurate transcription ensuring zero diacritic errors in Telugu script
+- Identified and bounded all meaningful page regions including titles, headings, paragraphs, lists, tables, figures, and captions
+- Assigned component types and reading-order indices to each annotated region
+- Linked regions to parent components (figures, tables) through hierarchical identifiers
+- Captured page metadata: language, document type, source, dimensions, and content flags
+- Reviewed peer annotations for accuracy and completeness before final submission
+- Handled handwritten Telugu content and flagged illegible regions for supervisor review
+
+AI Data Annotation Projects
+Jan 2025 - Present, Remote
+
+- Completed multiple data labeling projects for AI/ML training datasets involving Telugu content
+- Annotated document layouts for training document-understanding models
+- Applied consistent taxonomy across diverse document types and layouts
+- Ensured character-level accuracy in all transcribed text regions
+- Performed bilingual QA checks on annotated Telugu-English document pairs
+
+Telugu Localization and Subtitling
+2023 - Present, Remote
+
+- Localized software interfaces and web applications into Telugu
+- Created subtitles for Telugu video content with timing accuracy
+- Performed bilingual QA review ensuring translation fidelity and cultural accuracy
+- Corrected OCR output for Telugu documents with 99%+ accuracy
+- Maintained consistent terminology across large-volume translation projects
+
+EDUCATION
+B.Tech in Computer Science and Engineering - Malla Reddy Engineering College, Hyderabad
+2023 - 2027 | CGPA: 8.7 / 10
+
+Intermediate (MPC) - Sri Chaitanya Junior College, Kurnool
+2021 - 2023
+
+SSC (10th) - Vivekananda High School, Ananthapur
+2021
+
+CERTIFICATIONS
+Programming with Generative AI - NPTEL, ACM India and IISc Bangalore
+Problem Solving Through Programming in C - NPTEL, IIT Kharagpur
+Programming in Java - NPTEL, IIT Kharagpur
+Fundamentals of Generative AI - Google Skills
+
+PORTFOLIO PROJECTS
+Telugu Document Annotation Portfolio - September 2026
+- Created complete annotation configuration for Label Studio with 10 component types
+- Annotated sample Telugu textbook page: 8 regions with bounding boxes, component types, reading order
+- Annotated sample Telugu newspaper page: 9 regions including multi-column layout handling
+- Developed 10-step annotation workflow documentation
+- Transcribed 2 full Telugu pages with zero diacritic errors
+- Portfolio demonstrates: character-level accuracy, taxonomy consistency, relationship mapping
+- Portfolio URL: https://rythamo8055.github.io/telugu-annotation-portfolio/
+
+Telugu Transcription Samples - September 2026
+- Textbook page: Transcribed 8 regions including title, headings, paragraphs, tables, figures, captions
+- Newspaper page: Transcribed 9 regions including headlines, articles, data tables, weather warnings
+- Maintained 100% script accuracy with preserved diacritics and conjunct forms
+- Applied consistent reading-order indexing across diverse layouts
+
+Annotation Workflow Documentation - September 2026
+- Authored comprehensive 10-step annotation workflow
+- Defined taxonomy for 10 component types with examples
+- Created quality standards checklist for character-level accuracy
+- Documented relationship mapping methodology for parent-child components
+
+LANGUAGES
+Telugu - Native (full script mastery including diacritics and conjunct forms)
+English - Fluent (professional working proficiency)
+
+ADDITIONAL QUALIFICATIONS
+- Comfortable with unfamiliar document layouts: multi-column newspapers, exam papers, handwritten forms
+- Systematic approach: applies taxonomy consistently across hundreds of pages
+- Character-level accuracy prioritized over speed
+- Experienced with diverse Telugu document types: newspapers, textbooks, examinations, flyers, forms, manuals, menus, brochures, notices, worksheets
+- Available for flexible scheduling and remote work

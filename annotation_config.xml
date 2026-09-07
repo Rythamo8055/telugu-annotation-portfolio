@@ -1,0 +1,42 @@
+<View>
+  <Image name="image" value="$image"/>
+  <RectangleLabels name="label" toName="image">
+    <Label value="Document Title" background="#FF6B6B"/>
+    <Label value="Section Heading" background="#4ECDC4"/>
+    <Label value="Paragraph" background="#45B7D1"/>
+    <Label value="Table" background="#96CEB4"/>
+    <Label value="Figure" background="#FFEAA7"/>
+    <Label value="Caption" background="#DDA0DD"/>
+    <Label value="List" background="#98D8C8"/>
+    <Label value="Formula" background="#F7DC6F"/>
+    <Label value="Handwritten Text" background="#BB8FCE"/>
+    <Label value="Mixed Script" background="#85C1E9"/>
+  </RectangleLabels>
+  <Header value="Transcription"/>
+  <TextArea name="transcription" toName="image" rows="5" placeholder="Enter Telugu transcription here..."/>
+  <Header value="Reading Order Index"/>
+  <TextArea name="reading_order" toName="image" rows="1" placeholder="e.g., 1, 2, 3..."/>
+  <Header value="Component Type"/>
+  <Choices name="component_type" toName="image" choice="single">
+    <Choice value="title"/>
+    <Choice value="heading"/>
+    <Choice value="paragraph"/>
+    <Choice value="table"/>
+    <Choice value="figure"/>
+    <Choice value="caption"/>
+    <Choice value="list"/>
+    <Choice value="formula"/>
+    <Choice value="handwritten"/>
+    <Choice value="mixed_script"/>
+  </Choices>
+  <Header value="Parent Component ID"/>
+  <TextArea name="parent_id" toName="image" rows="1" placeholder="e.g., region_001 or none"/>
+  <Header value="Quality Flags"/>
+  <Choices name="quality_flags" toName="image" choice="multiple">
+    <Choice value="illegible"/>
+    <Choice value="damaged"/>
+    <Choice value="low_quality"/>
+    <Choice value="mixed_languages"/>
+    <Choice value="handwritten_mixed"/>
+  </Choices>
+</View>

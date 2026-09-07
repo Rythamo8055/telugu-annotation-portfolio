@@ -1,0 +1,62 @@
+{
+  "annotations": [{
+    "result": [
+      {
+        "from_name": "label",
+        "to_name": "image",
+        "type": "rectanglelabels",
+        "value": {
+          "x": 10,
+          "y": 5,
+          "width": 80,
+          "height": 8,
+          "rectanglelabels": ["Document Title"]
+        }
+      },
+      {
+        "from_name": "transcription",
+        "to_name": "image",
+        "type": "textarea",
+        "value": {
+          "text": ["ఆంధ్రప్రదేశ్ రాష్ట్ర పాఠశాల విద్యాశాఖ"]
+        }
+      },
+      {
+        "from_name": "reading_order",
+        "to_name": "image",
+        "type": "textarea",
+        "value": {
+          "text": ["1"]
+        }
+      },
+      {
+        "from_name": "component_type",
+        "to_name": "image",
+        "type": "choices",
+        "value": {
+          "choices": ["title"]
+        }
+      },
+      {
+        "from_name": "parent_id",
+        "to_name": "image",
+        "type": "textarea",
+        "value": {
+          "text": ["none"]
+        }
+      }
+    ]
+  }],
+  "data": {
+    "image": "telugu_textbook_page1.jpg"
+  },
+  "meta": {
+    "language": "Telugu",
+    "document_type": "textbook",
+    "source": "AP SCERT",
+    "page_dimensions": "A4",
+    "has_tables": false,
+    "has_formulas": false,
+    "has_handwriting": false
+  }
+}
