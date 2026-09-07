@@ -94,6 +94,36 @@ Remote
 - Documented style guides and glossaries for Telugu localization
 - Collaborated with development teams to ensure accurate UI text rendering
 
+Telugu Educational Content Creation
+Nov 2025 - Aug 2026
+Remote
+
+- Created educational content in Telugu for AI and technology topics
+- Developed tutorials and documentation for Telugu-speaking developers
+- Reviewed and proofread Telugu educational materials for accuracy
+- Translated technical concepts into accessible Telugu language
+- Maintained consistent terminology across educational content series
+
+Telugu Journalism and Content Review
+Nov 2025 - Aug 2026
+Remote
+
+- Published articles on technology topics in Telugu for online platforms
+- Reviewed and edited Telugu content for grammar style and accuracy
+- Contributed to Telugu Wikipedia articles on technology subjects
+- Performed fact-checking and content verification for Telugu publications
+- Ensured cultural appropriateness and linguistic accuracy in published content
+
+Regional-Language AI Data Review
+Nov 2025 - Aug 2026
+Remote
+
+- Reviewed AI-generated Telugu content for accuracy fluency and cultural appropriateness
+- Evaluated Telugu language quality for AI training datasets
+- Provided detailed feedback on Telugu grammar spelling and punctuation
+- Assessed AI responses for adherence to Telugu language standards
+- Contributed to improving Telugu language models through quality evaluation
+
 EDUCATION
 
 B.Tech in Computer Science and Engineering
